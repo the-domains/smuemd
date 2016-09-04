@@ -1,0 +1,14 @@
+layout_spectrum: 0.6354950363747776
+typography_spectrum: 0.9058717056177557
+color:
+  brandStrength: 0.9844311254564673
+  lightness: 0.3558180979453027
+  saturation: 0.4249529817607254
+  rhythmicContrast: 0.8024581393692642
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: smuemd
